@@ -19,7 +19,7 @@ repositories {
 ```
 
 ## Sonatype Nexus
-If you want to proxy this repository with (Sonatype Nexus)[http://www.sonatype.org/nexus/], then,
+If you want to proxy this repository with [Sonatype Nexus](http://www.sonatype.org/nexus/), then,
 
 * "Remote Repository Access > Download Remote Indexes" : false
 * "Remote Repository Access > Auto blocking active" : false
