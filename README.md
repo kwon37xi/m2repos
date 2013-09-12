@@ -17,3 +17,11 @@ repositories {
     </repository>
 </repositories>
 ```
+
+## Sonatype Nexus
+If you want to proxy this repository with (Sonatype Nexus)[http://www.sonatype.org/nexus/], then,
+
+* "Remote Repository Access > Download Remote Indexes" : false
+* "Remote Repository Access > Auto blocking active" : false
+* then refresh,
+* "Repository Status" will be changed to "Attempting to Proxy and Remote Unavailable".
