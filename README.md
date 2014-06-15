@@ -1,3 +1,6 @@
+This repository is DEPRECATED.
+
+
 # kwon37xi's Maven2 Repository
 
 ## Gradle
